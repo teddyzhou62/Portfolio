@@ -1,5 +1,5 @@
 # Portfolio
-For storing data science project
+For storing data science project [please click on title for more details]
 
 # [Project Example: In search of cultural capitals - from Hannah Yan Han](https://medium.com/@yanhann10/in-search-of-the-cultural-capitals-f6ddddd7f310)
 
