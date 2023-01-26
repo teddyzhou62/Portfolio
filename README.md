@@ -1,7 +1,7 @@
 # Portfolio
 For storing data science project
 
-# Project Example: In search of cultural capitals - from Hannah Yan Han
+# [Project Example: In search of cultural capitals - from Hannah Yan Han](https://medium.com/@yanhann10/in-search-of-the-cultural-capitals-f6ddddd7f310)
 
 Continuing from previous post Visualizing historical influencers, today I looked into the birthplaces of the most significant historical figures. The data collected by Project Pantheon on cultural export based on wikipedia views include notable person born between BC3500 to AD2005, and cover loads of locations, though most of the records are tilted towards Europe, America and Asia.
 
