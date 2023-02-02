@@ -8,6 +8,8 @@ This is a project aiming to track the Global Vaccination Rate, compare the peopl
 
 ![](https://github.com/teddyzhou62/Portfolio/blob/main/Image/Screenshot%202023-01-30%20172658.png)
 
+# [Project 2: US Film Industry analysis]
 
+This is quick dive into the investment preference in the film industry and how it has changed over the years
 
-
+![](https://github.com/teddyzhou62/Portfolio/blob/main/Image/Screenshot%202023-02-01%20220504.png)
